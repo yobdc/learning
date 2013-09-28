@@ -1,2 +1,2 @@
 # Git #
-[a simple git branching model](http://javascript.ruanyifeng.com/ "a simple git branching model")
+[a simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912 "a simple git branching model")

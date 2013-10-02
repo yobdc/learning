@@ -6,4 +6,8 @@
 
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html "AngularJS学习笔记")
+
 [AngularJS翻译版](https://github.com/basestyle/angularjs-cn "AngularJS翻译版")
+
+## NodeJs ##
+[Node入门](http://www.nodebeginner.org/index-zh-cn.html "Node入门")

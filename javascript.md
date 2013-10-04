@@ -15,3 +15,5 @@
 [Node入门](http://www.nodebeginner.org/index-zh-cn.html "Node入门")
 
 [7 tips for a Node.js](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/ "7 tips for a Node.js")
+
+[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)

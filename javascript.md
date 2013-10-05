@@ -17,3 +17,5 @@
 [7 tips for a Node.js](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/ "7 tips for a Node.js")
 
 [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
+
+[node.js入门--博客园](http://www.cnblogs.com/softlover/category/406516.html)

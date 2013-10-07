@@ -6,6 +6,8 @@
 
 [JavaScript Design Patterns](http://carldanley.com/javascript-design-patterns/)
 
+[理解Javascript的闭包](http://blogread.cn/it/article/5056)
+
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
 

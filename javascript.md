@@ -15,6 +15,8 @@
 
 [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
 
+[深入理解 AngularJS 的 Scope](http://www.lovelucy.info/understanding-scopes-in-angularjs.html)
+
 ## NodeJs ##
 [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 

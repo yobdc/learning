@@ -13,6 +13,8 @@
 
 [AngularJS翻译版](https://github.com/basestyle/angularjs-cn)
 
+[angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
+
 ## NodeJs ##
 [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 

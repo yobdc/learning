@@ -8,6 +8,8 @@
 
 [理解Javascript的闭包](http://blogread.cn/it/article/5056)
 
+[学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)
+
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
 

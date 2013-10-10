@@ -10,6 +10,8 @@
 
 [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)
 
+[JavaScript应用设计模式](http://www.infoq.com/cn/news/2013/09/javascript-design-patterns)
+
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
 

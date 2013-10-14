@@ -12,6 +12,8 @@
 
 [JavaScript应用设计模式](http://www.infoq.com/cn/news/2013/09/javascript-design-patterns)
 
+[ECMAScript5.1中文版](http://ecmascript.cn/)
+
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
 

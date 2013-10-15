@@ -14,6 +14,8 @@
 
 [ECMAScript5.1中文版](http://ecmascript.cn/)
 
+[Javascript的12个怪癖](https://github.com/justjavac/12-javascript-quirks/blob/master/cn/content.md)
+
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
 

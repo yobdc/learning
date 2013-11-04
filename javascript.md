@@ -16,6 +16,10 @@
 
 [Javascript的12个怪癖](https://github.com/justjavac/12-javascript-quirks/blob/master/cn/content.md)
 
+[JavaScript Event Loop 浅析](http://heroicyang.com/2012/08/28/javascript-event-loop/)
+
+[js 中的this,constructor ,prototype详解](http://blog.sae.sina.com.cn/archives/1206)
+
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
 

@@ -20,6 +20,8 @@
 
 [js 中的this,constructor ,prototype详解](http://blog.sae.sina.com.cn/archives/1206)
 
+[21 JavaScript Parts I Struggle To Remember](http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-)
+
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
 

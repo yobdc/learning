@@ -35,6 +35,8 @@
 
 [深入理解 AngularJS 的 Scope](http://www.lovelucy.info/understanding-scopes-in-angularjs.html)
 
+[5天学会 AngularJS](http://www.ng-newsletter.com/advent2013/)
+
 ## NodeJs ##
 [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 

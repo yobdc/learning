@@ -1,3 +1,7 @@
+# 大数据 #
+
+[搭建spark on yarn集群全过程](http://mzorro.me/2015/07/28/spark-on-yarn-setup/)
+
 # Java #
 
 [深入理解Java虚拟机](https://book.douban.com/subject/24722612/)
@@ -46,8 +50,6 @@
 [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
 
 [深入理解 AngularJS 的 Scope](http://www.lovelucy.info/understanding-scopes-in-angularjs.html)
-
-[5天学会 AngularJS](http://www.ng-newsletter.com/advent2013/)
 
 ## NodeJs ##
 [Node入门](http://www.nodebeginner.org/index-zh-cn.html)

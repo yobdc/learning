@@ -36,11 +36,6 @@
 
 [js 中的this,constructor ,prototype详解](http://blog.sae.sina.com.cn/archives/1206)
 
-[21 JavaScript Parts I Struggle To Remember](http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-)
-
-[浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
-
-[正经的前端面试参考](https://github.com/jinlong/FE-Interview)
 
 ## AngularJs ##
 [AngularJS学习笔记](http://zouyesheng.com/angular.html)
@@ -53,8 +48,6 @@
 
 ## NodeJs ##
 [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-
-[7 tips for a Node.js](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
 
 [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
 

@@ -4,6 +4,8 @@
 
 # Java #
 
+[Java面试手册](https://github.com/guanzhenxing/java_interview_manual)
+
 [Java-Interview](https://github.com/crossoverJie/Java-Interview)
 
 [深入理解Java虚拟机](https://book.douban.com/subject/24722612/)

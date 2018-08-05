@@ -4,6 +4,8 @@
 
 # Java #
 
+[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
 [Java面试手册](https://github.com/guanzhenxing/java_interview_manual)
 
 [Java-Interview](https://github.com/crossoverJie/Java-Interview)

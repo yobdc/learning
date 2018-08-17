@@ -6,6 +6,8 @@
 
 [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
+[Java related : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
+
 [Java面试手册](https://github.com/guanzhenxing/java_interview_manual)
 
 [Java-Interview](https://github.com/crossoverJie/Java-Interview)

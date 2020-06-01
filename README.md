@@ -77,3 +77,6 @@
 
 # 其他 #
 [Tom哥的读书单](https://github.com/aalansehaiyang/technology-talk/blob/master/other/book.md)
+
+# Linux #
+[我读过最好的Epoll模型讲解](https://blog.csdn.net/mango_song/article/details/42643971)

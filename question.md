@@ -14,6 +14,7 @@
 - HashMap深挖，和TreeMap比较，put，get，扩容，并发问题，rehash？
 - 如何实现零拷贝？具体方式和原理。
 - 两个50亿url文件，内存2G，求交集（hashset+分治）。这种方法有什么问题？
+- Java内存模型
 
 # 数据结构与算法
 - 插值算法与快排的区别
@@ -42,6 +43,7 @@
 
 # HBase
 - 卡口数据为什么存hbase而不存到mysql，hbase的优点
+- sqoop如何导入半结构化数据到hbase
 
 # SQL
 - 多表关联需要注意什么，有什么原则，join和=区别。

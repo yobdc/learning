@@ -80,3 +80,5 @@
 
 # Linux #
 [我读过最好的Epoll模型讲解](https://blog.csdn.net/mango_song/article/details/42643971)
+
+[Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)

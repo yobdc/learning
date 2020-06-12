@@ -4,6 +4,8 @@
 
 [搭建spark on yarn集群全过程](http://mzorro.me/2015/07/28/spark-on-yarn-setup/)
 
+[Zookeeper - ZAB协议，消息广播，崩溃恢复，数据同步](https://zhuanlan.zhihu.com/p/75720517)
+
 # Java #
 
 [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)

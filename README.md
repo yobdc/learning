@@ -6,6 +6,8 @@
 
 [Zookeeper - ZAB协议，消息广播，崩溃恢复，数据同步](https://zhuanlan.zhihu.com/p/75720517)
 
+[Redis面试题](https://zhuanlan.zhihu.com/p/89202459)
+
 # Java #
 
 [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)

@@ -1,20 +1,21 @@
 # Java
 - HashMap底层
-- Java多线程，如何控制线程顺序执行，同步方法
-- 什么时候Full GC？什么对象会被回收？
-- volatile关键字。内存屏障
 - HashMap和CourrentHashMap，为什么HashMap不安全？循环链接是什么时候发生的？segments是什-么？
+- Java多线程，如何控制线程顺序执行，同步方法
 - 两个线程，一个输出字母，一个输出数字，轮流输出。三个线程呢？
 - A B C线程如何指定顺序循环唤醒
+- 线程安全的单例
+- Java内存模型
+- 什么时候Full GC？什么对象会被回收？
+- GC算法
+- volatile关键字。内存屏障
 - 匿名内部类
 - lamda表达式如何实现
-- GC算法
 - StringBuffer和StringBuilder区别
 - ArrayList和LinkedList区别，哪个可以随机访问
 - HashMap深挖，和TreeMap比较，put，get，扩容，并发问题，rehash？
 - 如何实现零拷贝？具体方式和原理。
 - 两个50亿url文件，内存2G，求交集（hashset+分治）。这种方法有什么问题？
-- Java内存模型
 
 # 数据结构与算法
 - 插值算法与快排的区别

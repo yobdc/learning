@@ -42,6 +42,7 @@
 - Kafka优点
 - Kafka如何防止重消费
 - Kafka数据丢失后怎么处理
+- Kafka与其他mq的对比
 
 # HBase
 - 卡口数据为什么存hbase而不存到mysql，hbase的优点

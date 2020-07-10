@@ -6,9 +6,9 @@
 - A B C线程如何指定顺序循环唤醒
 - 线程安全的单例
 - Java内存模型
-- 什么时候Full GC？什么对象会被回收？
+- 什么时候FullGC？什么对象会被回收？
 - GC算法
-- volatile关键字。内存屏障
+- volatile关键字。内存屏障。
 - 匿名内部类
 - lamda表达式如何实现
 - StringBuffer和StringBuilder区别

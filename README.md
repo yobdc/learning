@@ -28,6 +28,9 @@
 
 [大型网站系统与Java中间件实践](https://book.douban.com/subject/25867042/)
 
+# 数据仓库 #
+[10 分钟简读经典著作 Data Warehouse Toolkit](https://zhuanlan.zhihu.com/p/37129245)
+
 # Javascript #
 ## 基础 ##
 [阮一峰的JavaScript 标准教程](http://javascript.ruanyifeng.com/)

@@ -30,8 +30,9 @@
 - Spark Shuffle的过程
 - 宽窄依赖介绍
 - RDD介绍
-- Spark cache和 persit的区别
+- Spark cache和 persist的区别
 - map join实现？应用场景？两张大表怎么选？（通过广播大变量；一般用在大表join小表，可容忍小表数据冗余的场景；两张大表就分而治之，再sort merge）
+- spark-submit的过程
 
 # Hadoop
 - 什么是cap理论，hadoop哪些体现了cap
@@ -50,6 +51,7 @@
 - hbase高可用怎么实现
 - hbase的读写流程
 - HLog写入失败了怎么办
+- RegionServer宕机后怎么办
 
 # SQL
 - 多表关联需要注意什么，有什么原则，join和=区别。

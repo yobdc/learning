@@ -19,11 +19,13 @@
 - 如何实现零拷贝？具体方式和原理。
 - 两个50亿url文件，内存2G，求交集（hashset+分治）。这种方法有什么问题？
 - syncrhonized实现原理
+- synchronized能修饰什么？使用monitorenter和monitorexit指令，获取一个对象的监视器(monitor)
 - 创建线程池有哪些方式？ThreadPoolExecutor的参数有哪些？
 - JVM内存分布情况
 - 单线程懒汉模型为什么要volitile，不用会有什么问题（对象初始化不完整）？
-- Java对象生成的过程
+- Java对象生成的过程（分配内存空间、初始化对象、将内存空间的地址赋值给对应的引用）
 - synchronized如何实现
+- 线程有哪些状态
 
 # 数据结构与算法
 - 插值算法与快排的区别

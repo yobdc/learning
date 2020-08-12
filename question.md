@@ -59,6 +59,7 @@
 - Kafka如何防止重消费
 - Kafka数据丢失后怎么处理
 - Kafka与其他mq的对比
+- 为什么快
 
 # HBase
 - 卡口数据为什么存hbase而不存到mysql，hbase的优点
@@ -69,11 +70,16 @@
 - RegionServer宕机后怎么办
 - 有哪些数据结构/角色
 
-# Kafka
-- 为什么快
+# Redis
+- key过期如何实现
 
 # SQL
 - 多表关联需要注意什么，有什么原则，join和=区别。
+
+# 数据仓库
+- 缓慢渐变维度？
+- 拉链表？
+- DataX底层原理
 
 # Linux
 - Linux中的epoll、select这些了解么

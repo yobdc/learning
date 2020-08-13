@@ -49,6 +49,10 @@
 - Spark执行资源的参数怎么确定？
 - 钨丝计划是什么？
 
+# Flink
+- Watermark是什么
+- 如何确保端到端Exactly-Once？
+
 # Hadoop
 - 什么是cap理论，hadoop哪些体现了cap
 - hdfs HA实现原理
@@ -72,9 +76,11 @@
 
 # Redis
 - key过期如何实现
+- 哨兵机制是什么
 
 # SQL
 - 多表关联需要注意什么，有什么原则，join和=区别。
+- 关键字的解析顺序
 
 # 数据仓库
 - 缓慢渐变维度？

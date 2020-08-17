@@ -52,6 +52,7 @@
 # Flink
 - Watermark是什么
 - 如何确保端到端Exactly-Once？
+- 如果数据源是http的api，怎么处理？
 
 # Hadoop
 - 什么是cap理论，hadoop哪些体现了cap
@@ -64,6 +65,7 @@
 - Kafka数据丢失后怎么处理
 - Kafka与其他mq的对比
 - 为什么快
+- 扩容后producer如何分发数据？
 
 # HBase
 - 卡口数据为什么存hbase而不存到mysql，hbase的优点
@@ -81,6 +83,7 @@
 # SQL
 - 多表关联需要注意什么，有什么原则，join和=区别。
 - 关键字的解析顺序
+- 三范式分别是什么
 
 # 数据仓库
 - 缓慢渐变维度？
